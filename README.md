@@ -1,17 +1,18 @@
-## Image Analysis and Understanding
+### Image Analysis and Understanding
+                   ---Color Detection and Recognition from 2D images
 
+小组成员：
+   张蓥 朱冉 艾维 陈怡 于胜举
+指导老师：
+   杨欣
+   
+# description of the project
+   The  goal  of  color  detection  and  recognition  is,  given  an  image  including  several 
+colored  objects,  to  detect  object  which has the same  color  as  the colored  objects  in a 
+database  (the shape of the  query object  in an image can be different from those in the 
+database)  and if yes label  the  color  on the object.
 
-You can use the [editor on GitHub](https://github.com/HUST2016/HUST2016.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
+# Work schedule
 # 第三周
 ## work:    
      查看相关文献和建立网站
@@ -24,14 +25,12 @@ Syntax highlighted code block
 
 # 第六周
 
+ ...
+ 
+### The outcome of the project
 
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HUST2016/HUST2016.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### 参考资料
-
+  [1] https://www.youtube.com/watch?v=o_9lKLUpQSQ
+  [2] https://vimeo.com/2381394
