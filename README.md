@@ -7,13 +7,13 @@
 指导老师：
    杨欣
    
-## description of the project
+## 1.description of the project
    The  goal  of  color  detection  and  recognition  is,  given  an  image  including  several 
 colored  objects,  to  detect  object  which has the same  color  as  the colored  objects  in a 
 database  (the shape of the  query object  in an image can be different from those in the 
 database)  and if yes label  the  color  on the object.
 
-## Work schedule
+## 2.Work schedule
 ### 第三周   
      查看相关文献和建立网站
      
@@ -27,11 +27,11 @@ database)  and if yes label  the  color  on the object.
 
  ...
  
-## The outcome of the project
+## 3.The outcome of the project
 
 
 
-## 参考资料
+## Reference
   [1] https://www.youtube.com/watch?v=o_9lKLUpQSQ
   
   [2] https://vimeo.com/2381394
