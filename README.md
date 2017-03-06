@@ -19,32 +19,28 @@ database)  and if yes label  the  color  on the object.
 <br />
 <br />
 <br />
-<br />
 
 ### 第四周
-### 
-### 
-### 
-### 
-### 
-
-
+<br />
+<br />
+<br />
 
 ### 第五周
-
-
-
+<br />
+<br />
+<br />
 
 ### 第六周
-
+<br />
+<br />
+<br />
  ...
  
 ## 3.The outcome of the project
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
 
 ## Reference
   [1] https://www.youtube.com/watch?v=o_9lKLUpQSQ
