@@ -16,7 +16,7 @@ database)  and if yes label  the  color  on the object.
 
 ### 第四周
 <br />
-   小组讨论，确定研究思路以及每个组员的分工   
+   小组讨论，确定研究思路以及每个组员的分工  
    美化网页
 <br />
 
