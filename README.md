@@ -40,12 +40,12 @@ database)  and if yes label  the  color  on the object.
 ***
 ## Group Members
 | NAME     |Student ID  |
-|:------   |:-----------:|
-|张蓥       | M201671    |
-|  朱冉     | M201671    |
-|  艾维     | M201671    |
-|  陈怡     | M201671    |
-|  于胜举   | M201671793 |　　　　　　　　　　　　　　　　　　　　　　　　　
+|:------   |:-----------:|　　　
+|张蓥       | M201671    |　　　　　
+|  朱冉     | M201671    |　　
+|  艾维     | M201671    |　　　　　
+|  陈怡     | M201671    |　　　　
+|  于胜举   | M201671793 |　　　　
 
 ## Reference
   [1] https://www.youtube.com/watch?v=o_9lKLUpQSQ  
