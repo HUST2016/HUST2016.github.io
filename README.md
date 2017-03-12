@@ -24,9 +24,6 @@ database)  and if yes label  the  color  on the object.
 <br />
    ```Java
    Code
-   Code
-   Code
-   Code
    ```
 <br />
 
