@@ -14,14 +14,15 @@ database  (the shape of the  query object  in an image can be different from tho
 database)  and if yes label  the  color  on the object.
 
 ## 2.Work schedule
-### 第三周   
-     查看相关文献和建立网站
+### 第三周    
 <br />
+    查看相关文献和建立网站
 <br />
 
 ### 第四周
 <br />
-   To Be Continued
+   小组讨论，确定研究思路以及每个组员的分工
+   美化网页
 <br />
 
 ### 第五周
@@ -41,8 +42,15 @@ database)  and if yes label  the  color  on the object.
    To Be Continued
 <br />
 <br />
-
+## Group Members
+| NAME     | PHOTOS      |Student ID  |
+| -----    |:-----------:| -----------|
+|  张蓥     | photos1     | M201671    |
+|  朱冉     | photos2     | M201671    |
+|  艾维     | photos3     | M201671    |
+|  陈怡     | photos4     | M201671    |
+|  于胜举   | photos5     | M201671793 |
 ## Reference
-  [1] https://www.youtube.com/watch?v=o_9lKLUpQSQ
+  [1] https://www.youtube.com/watch?v=o_9lKLUpQSQ  
   
   [2] https://vimeo.com/2381394
