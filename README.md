@@ -7,7 +7,7 @@
 colored  objects,  to  detect  object  which has the same  color  as  the colored  objects  in a 
 database  (the shape of the  query object  in an image can be different from those in the 
 database)  and if yes label  the  color  on the object.
-
+***
 ## 2.Work schedule
 ### 第三周    
 <br />
@@ -17,14 +17,14 @@ database)  and if yes label  the  color  on the object.
 ### 第四周
 <br />
    小组讨论，确定研究思路以及每个组员的分工;
-      美化网页
+   美化网页
 <br />
 
 ### 第五周
 <br />
-   '''  
+   ```
    Code....................  
-   '''
+   ```
 <br />
 
 ### 第六周
@@ -32,7 +32,7 @@ database)  and if yes label  the  color  on the object.
    To Be Continued
 <br />
  ...
- 
+ ***
 ## 3.The outcome of the project
 <br />
 <br />
@@ -51,6 +51,5 @@ database)  and if yes label  the  color  on the object.
 ## Reference
   [1] https://www.youtube.com/watch?v=o_9lKLUpQSQ  
   [2] https://vimeo.com/2381394
-  <br />
-                                                                                                       [回到顶部](#readme):blush:
+  <br />                                                                                             [回到顶部](#readme):blush:
   <br />
