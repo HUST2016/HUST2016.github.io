@@ -22,9 +22,7 @@ database)  and if yes label  the  color  on the object.
 
 ### 第五周
 <br />
-   ``` Code
-   code
-   ```
+   ` Code`
 <br />
 
 ### 第六周
