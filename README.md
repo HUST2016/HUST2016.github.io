@@ -1,11 +1,7 @@
 # Image Analysis and Understanding
                    ---Color Detection and Recognition from 2D images
-
-小组成员：
-   张蓥 朱冉 艾维 陈怡 于胜举
    
-指导老师：
-   杨欣
+                       指导老师： 杨欣
    
 ## 1.description of the project
    The  goal  of  color  detection  and  recognition  is,  given  an  image  including  several 
@@ -44,7 +40,7 @@ database)  and if yes label  the  color  on the object.
 <br />
 ## Group Members
 | NAME     | PHOTOS      |Student ID  |
-| -----    |:-----------:| -----------|
+| -----    |-----------  | -----------|
 |  张蓥     | photos1     | M201671    |
 |  朱冉     | photos2     | M201671    |
 |  艾维     | photos3     | M201671    |
