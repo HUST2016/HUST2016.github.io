@@ -75,4 +75,3 @@ ___
   [Bing](http://cn.bing.com/?scope=web "悬停显示")<br>
   [Ifeng](http://www.ifeng.com/  "悬停显示")<br>
   :stuck_out_tongue_winking_eye: <br>
-  ##<a name="emoji"/>
