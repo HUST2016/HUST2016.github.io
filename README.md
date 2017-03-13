@@ -1,5 +1,5 @@
 # Image Analysis and Understanding    
-
+<br />
                          ----Color Detection and Recognition from 2D images  
                               指导老师： 杨欣
    
@@ -39,13 +39,6 @@ database)  and if yes label  the  color  on the object.
 <br />
 ***
 ## Group Members
-| NAME     |Student ID  |
-|:---------|:-----------:|
-|张蓥       | M201671    |
-|  朱冉     | M201671    |
-|  艾维     | M201671    |
-|  陈怡     | M201671    |
-|  于胜举   | M201671793 |   
 <div>
     <table border="0">
       <tr>
@@ -62,11 +55,11 @@ database)  and if yes label  the  color  on the object.
       </tr>
       <tr>
         <td>艾维 </td>
-        <td>M201671 </td><br >
+        <td>M201671 </td>
       </tr>
       <tr>
         <td>陈怡 </td>
-        <td>M201671 </td><br >
+        <td>M201671 </td>
       </tr>
       <tr>
         <td>于胜举 </td>
