@@ -74,5 +74,5 @@ ___
   [HUST](http://www.hust.edu.cn/"悬停显示")<br>
   [Bing](http://cn.bing.com/?scope=web "悬停显示")<br>
   [Ifeng](http://www.ifeng.com/  "悬停显示")<br>
-  [Return to top](#jump)<span id = "jump">"Image Analysis and Understanding" </span> :stuck_out_tongue_winking_eye: <br>
+  :stuck_out_tongue_winking_eye: <br>
   ##<a name="emoji"/>
