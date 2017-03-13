@@ -2,6 +2,8 @@
 
                        ----Color Detection and Recognition from 2D images     
                                  指导老师： 杨欣     
+
+
 ## 1.description of the project
    The  goal  of  color  detection  and  recognition  is,  given  an  image  including  several 
 colored  objects,  to  detect  object  which has the same  color  as  the colored  objects  in a 
