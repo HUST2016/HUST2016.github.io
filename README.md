@@ -1,6 +1,6 @@
-# Image Analysis and Understanding
-================
-                    ---Color Detection and Recognition from 2D images  
+# Image Analysis and Understanding    
+
+                         ----Color Detection and Recognition from 2D images  
                               指导老师： 杨欣
    
 ## 1.description of the project
@@ -82,4 +82,4 @@ database)  and if yes label  the  color  on the object.
   <br　>　
   <br　>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　  [Bing](http://cn.bing.com/?scope=web "悬停显示")
   <br　>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　[Ifeng](http://www.ifeng.com/  "悬停显示")
-  <br　>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　[回到顶部](#readme)　:blush:
+  <br　>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　[回到顶部](#readme)　:stuck_out_tongue_winking_eye:
