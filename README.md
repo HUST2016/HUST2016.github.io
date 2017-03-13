@@ -1,14 +1,14 @@
 # Image Analysis and Understanding    
 
                        ----Color Detection and Recognition from 2D images     
-                                 指导老师： 杨欣
-<span id = "jump"> </span>  
+                                 指导老师： 杨欣     
 ## 1.description of the project
    The  goal  of  color  detection  and  recognition  is,  given  an  image  including  several 
 colored  objects,  to  detect  object  which has the same  color  as  the colored  objects  in a 
 database  (the shape of the  query object  in an image can be different from those in the 
 database)  and if yes label  the  color  on the object.
 ***
+<span id = "jump"> </span> 
 ## 2.Work schedule
 ### 第三周    
 <br />
