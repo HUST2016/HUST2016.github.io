@@ -53,16 +53,19 @@ database)  and if yes label  the  color  on the object.
       </tr>
       <tr>
         <td>张蓥 </td>
-        <td>M201671 </td><br >    
+        <td>M201671 </td>
+      </tr>
+      <tr>
         <td>朱冉 </td>      
-        <td>M201671 </td><br >
+        <td>M201671 </td>
+      </tr>
         <td>艾维 </td>
         <td>M201671 </td><br >
         <td>陈怡 </td>
         <td>M201671 </td><br >
         <td>于胜举 </td>
         <td>M201671793  </td>
-      </tr>
+      
     </table>
 </div>
 ## Reference
