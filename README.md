@@ -8,7 +8,6 @@ colored  objects,  to  detect  object  which has the same  color  as  the colore
 database  (the shape of the  query object  in an image can be different from those in the 
 database)  and if yes label  the  color  on the object.
 ***
-<span id = "jump"> </span> 
 ## 2.Work schedule
 ### 第三周    
 <br />
@@ -75,4 +74,4 @@ ___
   [HUST](http://www.hust.edu.cn/"悬停显示")<br>
   [Bing](http://cn.bing.com/?scope=web "悬停显示")<br>
   [Ifeng](http://www.ifeng.com/  "悬停显示")<br>
-  [Return to top](#jump):stuck_out_tongue_winking_eye: <br>
+  [Return to top](#jump)<span id = "jump">Image Analysis and Understanding </span> :stuck_out_tongue_winking_eye: <br>
