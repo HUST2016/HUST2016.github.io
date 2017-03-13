@@ -75,4 +75,4 @@ ___
   [HUST](http://www.hust.edu.cn/"悬停显示")<br>
   [Bing](http://cn.bing.com/?scope=web "悬停显示")<br>
   [Ifeng](http://www.ifeng.com/  "悬停显示")<br>
-  [回到顶部](#readme)　:stuck_out_tongue_winking_eye: <br>
+  [Return to top](#readme)　:stuck_out_tongue_winking_eye: <br>
