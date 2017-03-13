@@ -1,6 +1,6 @@
 # Image Analysis and Understanding
-                   
-                   ---Color Detection and Recognition from 2D images  
+================
+                    ---Color Detection and Recognition from 2D images  
                               指导老师： 杨欣
    
 ## 1.description of the project
