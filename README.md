@@ -75,9 +75,8 @@ database)  and if yes label  the  color  on the object.
 </div>
 ## Reference
   [1] https://www.youtube.com/watch?v=o_9lKLUpQSQ  
-  [2] https://vimeo.com/2381394
-  <br　/>
-  
+  [2] https://vimeo.com/2381394      
+  <br>
   <br　>　
   <br　>　
   <br　>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　  [Bing](http://cn.bing.com/?scope=web "悬停显示")
