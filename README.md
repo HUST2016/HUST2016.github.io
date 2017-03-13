@@ -29,7 +29,6 @@ database)  and if yes label  the  color  on the object.
 <br />
    To Be Continued
 <br />
- ...
  ***
 ## 3.The outcome of the project
 <br />
