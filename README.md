@@ -70,9 +70,9 @@ ___
 ## Reference
   [1] https://www.youtube.com/watch?v=o_9lKLUpQSQ  
   [2] https://vimeo.com/2381394<br  >  
-  <br  >
-  <br　>　
-  <br　>　
-[Bing](http://cn.bing.com/?scope=web "悬停显示")<br　>
-[Ifeng](http://www.ifeng.com/  "悬停显示")<br　>
-[回到顶部](#readme)　:stuck_out_tongue_winking_eye: <br　>
+  <br>
+  <br>　
+  <br>　
+[Bing](http://cn.bing.com/?scope=web "悬停显示")<br>
+[Ifeng](http://www.ifeng.com/  "悬停显示")<br>
+[回到顶部](#readme)　:stuck_out_tongue_winking_eye: <br>
