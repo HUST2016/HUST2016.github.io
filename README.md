@@ -30,14 +30,14 @@ database)  and if yes label  the  color  on the object.
 <br />
    To Be Continued
 <br />
- ***
+___
 ## 3.The outcome of the project
 <br />
 <br />
    To Be Continued
 <br />
 <br />
-***
+___
 ## Group Members
 <div>
     <table border="0">
@@ -73,6 +73,6 @@ database)  and if yes label  the  color  on the object.
   <br  >
   <br　>　
   <br　>　
-  <br　>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　  [Bing](http://cn.bing.com/?scope=web "悬停显示")
-  <br　>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　[Ifeng](http://www.ifeng.com/  "悬停显示")
-  <br　>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　[回到顶部](#readme)　:stuck_out_tongue_winking_eye:
+[Bing](http://cn.bing.com/?scope=web "悬停显示")<br　>
+[Ifeng](http://www.ifeng.com/  "悬停显示")<br　>
+[回到顶部](#readme)　:stuck_out_tongue_winking_eye: <br　>
