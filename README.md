@@ -73,7 +73,7 @@ ___
   [2] https://vimeo.com/2381394<br  >  
   <br>
   <br>
-  [HUST](http://www.hust.edu.cn/"悬停显示")<br>
+  [HUST](http://www.hust.edu.cn/  "悬停显示")<br>
   [Bing](http://cn.bing.com/?scope=web "悬停显示")<br>
   [Ifeng](http://www.ifeng.com/  "悬停显示")<br>
   :stuck_out_tongue_winking_eye: <br>
