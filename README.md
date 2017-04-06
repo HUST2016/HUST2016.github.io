@@ -69,10 +69,10 @@ database)  and if yes label  the  color  on the object.
 
 ## Reference   
 <div>[1]<a href="https://www.youtube.com/watch?v=o_9lKLUpQSQ" _src="https://www.youtube.com/watch?v=o_9lKLUpQSQ">https://www.youtube.com/watch?v=o_9lKLUpQSQ</a></div><div>[2]<a href="https://vimeo.com/2381394" _src="https://vimeo.com/2381394">https://vimeo.com/2381394</a></div><div>[3]<a href="http://dsqiu.iteye.com/blog/1638589" _src="http://dsqiu.iteye.com/blog/1638589">http://dsqiu.iteye.com/blog/1638589</a></div><div>[4]<a href="http://www.csdn.net/article/2012-07-03/2807073-k-means" _src="http://www.csdn.net/article/2012-07-03/2807073-k-means">http://www.csdn.net/article/2012-07-03/2807073-k-means</a></div>
- 
-<br />   
-[HUST](http://www.hust.edu.cn/  "悬停显示")
-[Bing](http://cn.bing.com/?scope=web "悬停显示")
-[Ifeng](http://www.ifeng.com/  "悬停显示")
-:stuck_out_tongue_winking_eye:
+##
+<br />     
+[HUST](http://www.hust.edu.cn/  "悬停显示")    
+[Bing](http://cn.bing.com/?scope=web "悬停显示")      
+[Ifeng](http://www.ifeng.com/  "悬停显示")      
+:stuck_out_tongue_winking_eye:     
 <br />
