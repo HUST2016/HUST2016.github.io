@@ -17,9 +17,10 @@ database)  and if yes label  the  color  on the object.
 
 ### 第四周
 <div>&nbsp;小组讨论，查看相关文献确定研究思路以及每个组员的分工；</div><div>&nbsp;进一步美化网页；&nbsp;</div><div>&nbsp;环境配置：python 2.7.9、opencv2.4.13、Numpy1.12.1等相关库包</div><div>&nbsp;IDE &nbsp; &nbsp; &nbsp; &nbsp;：JetBrains PyCharm Community Edition&nbsp;</div><div>&nbsp;注意事项：<span style="line-height: 1.7;">建议使用python2.7版本（python3.0可能出现与相关包不兼容）&nbsp;</span></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 同时建议安装Anaconda2，里面包含了大多数的python库包，可方便使用 </div><div>     
- &nbsp;项目流程：</div>   
+ &nbsp;项目流程：</div>  
+
  <br />   
- ![Image](https://github.com/HUST2016/HUST2016.github.io/blob/master/images/1.png)
+![Image](https://github.com/HUST2016/HUST2016.github.io/blob/master/images/1.png)
  <br />     
  
 ### 第五周
@@ -69,10 +70,3 @@ database)  and if yes label  the  color  on the object.
 
 ## Reference   
 <div>[1]<a href="https://www.youtube.com/watch?v=o_9lKLUpQSQ" _src="https://www.youtube.com/watch?v=o_9lKLUpQSQ">https://www.youtube.com/watch?v=o_9lKLUpQSQ</a></div><div>[2]<a href="https://vimeo.com/2381394" _src="https://vimeo.com/2381394">https://vimeo.com/2381394</a></div><div>[3]<a href="http://dsqiu.iteye.com/blog/1638589" _src="http://dsqiu.iteye.com/blog/1638589">http://dsqiu.iteye.com/blog/1638589</a></div><div>[4]<a href="http://www.csdn.net/article/2012-07-03/2807073-k-means" _src="http://www.csdn.net/article/2012-07-03/2807073-k-means">http://www.csdn.net/article/2012-07-03/2807073-k-means</a></div>
-##
-<br />     
-[HUST](http://www.hust.edu.cn/  "悬停显示")    
-[Bing](http://cn.bing.com/?scope=web "悬停显示")      
-[Ifeng](http://www.ifeng.com/  "悬停显示")      
-:stuck_out_tongue_winking_eye:     
-<br />
