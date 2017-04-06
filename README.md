@@ -30,9 +30,9 @@ database)  and if yes label  the  color  on the object.
 <br />
 ## 3.The outcome of the project
 <br />
-<br />
+<br />   
    To Be Continued    
-   ![image](https://raw.githubusercontent.com/HUST2016/HUST2016.github.io/master/images/1.png)
+   ![image](https://raw.githubusercontent.com/HUST2016/HUST2016.github.io/master/images/1.png)       
 <br />
 <br />
 ## Group Members
