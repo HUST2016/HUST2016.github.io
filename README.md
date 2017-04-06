@@ -21,6 +21,7 @@ database)  and if yes label  the  color  on the object.
 
  <br />   
 ![Image](https://github.com/HUST2016/HUST2016.github.io/blob/master/images/1.png)
+![Image](images/1.png)
  <br />     
  
 ### 第五周
