@@ -25,8 +25,8 @@ database)  and if yes label  the  color  on the object.
    IDE JetBrains PyCharm Community Edition  <br>
    注意事项：建议使用python2.7版本（python3.0可能出现与相关包不兼容）<br>
 	    同时建议安装Anaconda2，里面包含了大多数的python库包，可方便使用 <br>     
-  项目流程：    
-  ![Image](http://github.com/hust2016/hust2016.github.io/raw/master/images/1.png)
+  项目流程：<br>    
+  ![Image](HUST2016.github.io/images/1.png)
 <br />
 
 ### 第五周
