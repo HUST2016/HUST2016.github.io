@@ -20,7 +20,8 @@ database)  and if yes label  the  color  on the object.
  &nbsp;项目流程：</div>   
  <br />   
  ![Image](https://github.com/HUST2016/HUST2016.github.io/blob/master/images/1.png)
- <br />
+ <br />     
+ 
 ### 第五周
 <br />
 <div>编程实现，部分相关程序代码：</div><div><pre style="font-family: 宋体; color: rgb(169, 183, 198); font-size: 12pt; background-color: rgb(43, 43, 43);"><div><span style="font-size: 12pt; line-height: 1.7;">M = cv2.moments(c) </span><span style="font-size: 12pt; line-height: 1.7; color: rgb(217, 139, 139);">#轮廓c的  矩, 计算中心距（中心距可由原点矩（几何矩）计算）</span></div><span style="color: rgb(217, 139, 139);">#print('M["m00"]: ',M["m00#轮廓的  矩"])<br /></span><span style="color: rgb(204, 120, 50); font-weight: bold;">if </span>(M[<span style="color: rgb(165, 194, 97);">"m00"</span>] == <span style="color: rgb(233, 36, 159);">0</span>):<span style="color: rgb(217, 139, 139);"><br /></span><span style="color: rgb(217, 139, 139);">   </span>M[<span style="color: rgb(165, 194, 97);">"m00"</span>]=<span style="color: rgb(233, 36, 159);">1</span><span style="color: rgb(217, 139, 139);"><br /></span>cX = <span style="color: rgb(136, 136, 198);">int</span>((M[<span style="color: rgb(165, 194, 97);">"m10"</span>] / M[<span style="color: rgb(165, 194, 97);">"m00"</span>]) * ratio)<span style="color: rgb(217, 139, 139);">#M["m10"] / M["m00"] 表示x坐标（列）<br /></span>cY = <span style="color: rgb(136, 136, 198);">int</span>((M[<span style="color: rgb(165, 194, 97);">"m01"</span>] / M[<span style="color: rgb(165, 194, 97);">"m00"</span>]) * ratio)<span style="color: rgb(217, 139, 139);">#"m10"，"m01"表示x、y方向的一阶原点矩（由原点矩可计算中心距）<br /></span><span style="color: rgb(217, 139, 139);">#print('cX:', cX, 'cY: ', cY)#print(image[cY, cX])<br /></span><span style="color: rgb(217, 139, 139);">#detect the shape of the contour and label the color<br /></span>shape = sd.detect(c)<span style="color: rgb(217, 139, 139); font-size: 12pt; line-height: 1.7;">#自定义的形状检测函数</span><br />color = cl.label(lab<span style="color: rgb(204, 120, 50);">, </span>c)<span style="color: rgb(217, 139, 139); font-size: 12pt; line-height: 1.7;">#自定义的颜色检测函数</span><br /><span style="color: rgb(217, 139, 139);">#根据轮廓的坐标值进行画出轮廓<br /></span>c = c.astype(<span style="color: rgb(165, 194, 97);">"float"</span>)<br />c *= ratio<br />c = c.astype(<span style="color: rgb(165, 194, 97);">"int"</span>)<br />text = <span style="color: rgb(165, 194, 97);">"{} {}"</span>.format(color<span style="color: rgb(204, 120, 50);">, </span>shape)<br />cv2.drawContours(image<span style="color: rgb(204, 120, 50);">, </span>[c]<span style="color: rgb(204, 120, 50);">, </span>-<span style="color: rgb(233, 36, 159);">1</span><span style="color: rgb(204, 120, 50);">, </span>(<span style="color: rgb(233, 36, 159);">0</span><span style="color: rgb(204, 120, 50);">, </span><span style="color: rgb(233, 36, 159);">255</span><span style="color: rgb(204, 120, 50);">, </span><span style="color: rgb(233, 36, 159);">0</span>)<span style="color: rgb(204, 120, 50);">, </span><span style="color: rgb(233, 36, 159);">2</span>)<br />cv2.putText(image<span style="color: rgb(204, 120, 50);">, </span>text<span style="color: rgb(204, 120, 50);">, </span>(cX<span style="color: rgb(204, 120, 50);">, </span>cY)<span style="color: rgb(204, 120, 50);">,<br /></span><span style="color: rgb(204, 120, 50);">   </span>cv2.FONT_HERSHEY_SIMPLEX<span style="color: rgb(204, 120, 50);">, </span><span style="color: rgb(233, 36, 159);">0.5</span><span style="color: rgb(204, 120, 50);">, </span>(<span style="color: rgb(233, 36, 159);">255</span><span style="color: rgb(204, 120, 50);">, </span><span style="color: rgb(233, 36, 159);">255</span><span style="color: rgb(204, 120, 50);">, </span><span style="color: rgb(233, 36, 159);">255</span>)<span style="color: rgb(204, 120, 50);">, </span><span style="color: rgb(233, 36, 159);">2</span>)<br /><span style="color: rgb(217, 139, 139);">#show the output image<br /></span>cv2.imshow(<span style="color: rgb(165, 194, 97);">"Image"</span><span style="color: rgb(204, 120, 50);">, </span>image)<br />cv2.waitKey(<span style="color: rgb(233, 36, 159);">700</span>)</pre></div>
@@ -64,15 +65,14 @@ database)  and if yes label  the  color  on the object.
         <td>M201671793  </td>
       </tr>      
     </table>
-</div>         
+</div>      
+
 ## Reference   
 <div>[1]<a href="https://www.youtube.com/watch?v=o_9lKLUpQSQ" _src="https://www.youtube.com/watch?v=o_9lKLUpQSQ">https://www.youtube.com/watch?v=o_9lKLUpQSQ</a></div><div>[2]<a href="https://vimeo.com/2381394" _src="https://vimeo.com/2381394">https://vimeo.com/2381394</a></div><div>[3]<a href="http://dsqiu.iteye.com/blog/1638589" _src="http://dsqiu.iteye.com/blog/1638589">http://dsqiu.iteye.com/blog/1638589</a></div><div>[4]<a href="http://www.csdn.net/article/2012-07-03/2807073-k-means" _src="http://www.csdn.net/article/2012-07-03/2807073-k-means">http://www.csdn.net/article/2012-07-03/2807073-k-means</a></div>
  
 <br />   
-
-
-                                     [HUST](http://www.hust.edu.cn/  "悬停显示")
-                                     [Bing](http://cn.bing.com/?scope=web "悬停显示")
-                                     [Ifeng](http://www.ifeng.com/  "悬停显示")
-                                    :stuck_out_tongue_winking_eye:
+[HUST](http://www.hust.edu.cn/  "悬停显示")
+[Bing](http://cn.bing.com/?scope=web "悬停显示")
+[Ifeng](http://www.ifeng.com/  "悬停显示")
+:stuck_out_tongue_winking_eye:
 <br />
