@@ -27,9 +27,12 @@ database)  and if yes label  the  color  on the object.
 <br />
 
 ### 第六周
-<br />
-   To Be Continued
-<br />
+<br />    
+项目的各个部分的展示：      
+（1）原始图像、高斯滤波、图像二值化     
+![image](https://raw.githubusercontent.com/HUST2016/HUST2016.github.io/master/images/2.jpg)
+<br />  
+
 ## 3.The outcome of the project
 <br />
 <br />   
