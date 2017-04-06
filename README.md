@@ -18,8 +18,8 @@ database)  and if yes label  the  color  on the object.
 
 ### 第四周
 <br />
-  小组讨论，确定研究思路以及每个组员的分工;<br>
-  美化网页;<br>   
+ 小组讨论，确定研究思路以及每个组员的分工;<br>
+ 美化网页;<br>   
    
    环境配置：python 2.7.9、opencv2.4.13、Numpy1.12.1等相关库包<br>
    IDE JetBrains PyCharm Community Edition  <br>
