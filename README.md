@@ -34,21 +34,18 @@ database)  and if yes label  the  color  on the object.
 ```Python    
 
 M = cv2.moments(c) #轮廓的  矩   计算中心距（中心距可由原点矩（几何矩）计算）<br>    
-#print('M["m00"]: ',M["m00#轮廓的  矩"])#正方形的M["m00"]为零<br>    
+//print('M["m00"]: ',M["m00#轮廓的  矩"])#正方形的M["m00"]为零<br>    
 if (M["m00"] == 0): <br>
 	M["m00"]=1  <br>
-# if cv2.contourArea(c) > MIN_THRESH: #也可以这样处理<br>
-# # process the contour  #m00   看作是图像的灰度质量μ00(0+0阶中心距)=∑^M i=1∑^N j=1(i−i¯)^0(j−j¯)^0 f(i,j)=m00（集合矩）<br>
-cX = int((M["m10"] / M["m00"]) * ratio)#M["m10"] / M["m00"] 表示x坐标（列）<br>
-cY = int((M["m01"] / M["m00"]) * ratio)#"m10"，"m01"表示x、y方向的一阶原点矩（由原点矩可计算中心距）<br>
-#print('cX:', cX, 'cY: ', cY)#print(image[cY, cX])<br>
-# detect the shape of the contour and label the color<br>
+cX = int((M["m10"] / M["m00"]) * ratio)//M["m10"] / M["m00"] 表示x坐标（列）<br>
+cY = int((M["m01"] / M["m00"]) * ratio)//"m10"，"m01"表示x、y方向的一阶原点矩（由原点矩可计算中心距）<br>
+//print('cX:', cX, 'cY: ', cY)#print(image[cY, cX])<br>
+//detect the shape of the contour and label the color<br>
 shape = sd.detect(c)<br>
 color = cl.label(lab, c)<br>
-
-# multiply the contour (x, y)-coordinates by the resize ratio,<br>
-# then draw the contours and the name of the shape and labeled<br>
-# color on the image   根据轮廓的坐标值进行画出轮廓<br>
+//multiply the contour (x, y)-coordinates by the resize ratio,<br>
+//then draw the contours and the name of the shape and labeled<br>
+//color on the image   根据轮廓的坐标值进行画出轮廓<br>
 c = c.astype("float")<br>
 c *= ratio<br>
 c = c.astype("int")<br>
@@ -57,7 +54,7 @@ cv2.drawContours(image, [c], -1, (0, 255, 0), 2)<br>
 cv2.putText(image, text, (cX, cY),<br>
 	cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 255, 255), 2)<br>
 
-# show the output image<br>
+//show the output image<br>
 cv2.imshow("Image", image)   <br>    
     
 ```
