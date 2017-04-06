@@ -31,8 +31,8 @@ database)  and if yes label  the  color  on the object.
 
 ### 第五周
 <br />
-``` python  
-	M = cv2.moments(c) #轮廓的  矩   计算中心距（中心距可由原点矩（几何矩）计算）
+``` python <br>  
+        M = cv2.moments(c) #轮廓的  矩   计算中心距（中心距可由原点矩（几何矩）计算）
 	#print('M["m00"]: ',M["m00#轮廓的  矩"])#正方形的M["m00"]为零
 	if (M["m00"] == 0):  #
 		M["m00"]=1
