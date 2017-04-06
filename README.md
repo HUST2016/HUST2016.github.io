@@ -55,8 +55,9 @@ cv2.putText(image, text, (cX, cY),<br>
 	cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 255, 255), 2)<br>
 
 //show the output image<br>
-cv2.imshow("Image", image)<br>   
-<br>        
+cv2.imshow("Image", image)
+<br>
+<br>     
 ```
 <br />
 
