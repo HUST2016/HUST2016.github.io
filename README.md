@@ -31,7 +31,7 @@ database)  and if yes label  the  color  on the object.
 
 ### 第五周
 <br />
-``` Python <br>    
+```Python    
 
 M = cv2.moments(c) #轮廓的  矩   计算中心距（中心距可由原点矩（几何矩）计算）<br>    
 #print('M["m00"]: ',M["m00#轮廓的  矩"])#正方形的M["m00"]为零<br>    
@@ -58,7 +58,8 @@ cv2.putText(image, text, (cX, cY),<br>
 	cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 255, 255), 2)<br>
 
 # show the output image<br>
-cv2.imshow("Image", image)   <br>
+cv2.imshow("Image", image)   <br>    
+    
 ```
 <br />
 
