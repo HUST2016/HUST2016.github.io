@@ -17,10 +17,8 @@ database)  and if yes label  the  color  on the object.
 
 ### 第四周
 <div>&nbsp;小组讨论，查看相关文献确定研究思路以及每个组员的分工；</div><div>&nbsp;进一步美化网页；&nbsp;</div><div>&nbsp;环境配置：python 2.7.9、opencv2.4.13、Numpy1.12.1等相关库包</div><div>&nbsp;IDE &nbsp; &nbsp; &nbsp; &nbsp;：JetBrains PyCharm Community Edition&nbsp;</div><div>&nbsp;注意事项：<span style="line-height: 1.7;">建议使用python2.7版本（python3.0可能出现与相关包不兼容）&nbsp;</span></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 同时建议安装Anaconda2，里面包含了大多数的python库包，可方便使用 </div><div>     
- &nbsp;项目流程：</div><div>![image](https://raw.githubusercontent.com/HUST2016/HUST2016.github.io/master/images/1.png)</div>  
- <br />   
-    ![image](https://github.com/HUST2016/HUST2016.github.io/blob/master/images/1.png)     
-    To Be Continued      
+ &nbsp;项目流程：</div>  
+ <br /> 
     ![image](https://raw.githubusercontent.com/HUST2016/HUST2016.github.io/master/images/1.png)       
 <br />
 ### 第五周
@@ -36,7 +34,6 @@ database)  and if yes label  the  color  on the object.
 <br />
 <br />   
    To Be Continued    
-   ![image](https://github.com/HUST2016/HUST2016.github.io/blob/master/images/1.png)       
 <br />
 <br />
 ## Group Members
