@@ -28,10 +28,15 @@ database)  and if yes label  the  color  on the object.
 
 ### 第六周
 <br />    
-项目的各个部分的展示：      
+项目各个部分展示：      
 （1）原始图像、高斯滤波、图像二值化     
-![image](https://raw.githubusercontent.com/HUST2016/HUST2016.github.io/master/images/2.jpg)
-<br />  
+![image](https://raw.githubusercontent.com/HUST2016/HUST2016.github.io/master/images/2.jpg)       
+ 对二值化后的图像进行形状检测，并计算出各个轮廓的质心       
+（2）识别各个形状的具体类型（三角形、长（正）方形、五边形、圆形），并标出      
+（3）识别各个形状的颜色     
+（4）结合（1）、（2）、（3），在每个形状的质心处输出 “ 形状+颜色  ” 的信息标注
+ 
+<br /> 
 
 ## 3.The outcome of the project
 <br />
