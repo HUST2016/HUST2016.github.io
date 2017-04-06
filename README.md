@@ -9,7 +9,6 @@
 colored  objects,  to  detect  object  which has the same  color  as  the colored  objects  in a 
 database  (the shape of the  query object  in an image can be different from those in the 
 database)  and if yes label  the  color  on the object.
-***
 ## 2.Work schedule
 ### 第三周    
 <br />
@@ -31,14 +30,12 @@ database)  and if yes label  the  color  on the object.
 <br />
    To Be Continued
 <br />
-___
 ## 3.The outcome of the project
 <br />
 <br />
    To Be Continued
 <br />
 <br />
-___
 ## Group Members
 <div>
     <table border="0">
@@ -68,7 +65,8 @@ ___
       </tr>      
     </table>
 </div>         
-## Reference
+## Reference   
+<div>[1]https://www.youtube.com/watch?v=o_9lKLUpQSQ</div><div>[2]https://vimeo.com/2381394</div><div>[3]http://dsqiu.iteye.com/blog/1638589</div><div>[4]http://www.csdn.net/article/2012-07-03/2807073-k-means</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [HUST](http://www.hust.edu.cn/ &nbsp;"悬停显示")</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Bing](http://cn.bing.com/?scope=web "悬停显示")</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Ifeng](http://www.ifeng.com/ &nbsp;"悬停显示")</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :stuck_out_tongue_winking_eye:</div>
   [1] https://www.youtube.com/watch?v=o_9lKLUpQSQ  
   [2] https://vimeo.com/2381394<br  >  
   <br>
