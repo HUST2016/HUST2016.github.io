@@ -21,10 +21,10 @@ database)  and if yes label  the  color  on the object.
    小组讨论，确定研究思路以及每个组员的分工;<br>
    美化网页;<br>   
    
-     环境配置：python 2.7.9、opencv2.4.13、Numpy1.12.1等相关库包<br>
-     IDE JetBrains PyCharm Community Edition  <br>
-     注意事项：建议使用python2.7版本（python3.0可能出现与相关包不兼容）<br>
-	             同时建议安装Anaconda2，里面包含了大多数的python库包，可方便使用<br>
+   环境配置：python 2.7.9、opencv2.4.13、Numpy1.12.1等相关库包<br>
+   IDE JetBrains PyCharm Community Edition  <br>
+   注意事项：建议使用python2.7版本（python3.0可能出现与相关包不兼容）<br>
+	    同时建议安装Anaconda2，里面包含了大多数的python库包，可方便使用<br>
 <br />
 
 ### 第五周
