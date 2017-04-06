@@ -53,7 +53,7 @@ database)  and if yes label  the  color  on the object.
       </tr>
       <tr>
         <td>艾维 </td>
-        <td>M201671 </td>
+        <td>M201671795 </td>
       </tr>
       <tr>
         <td>陈怡 </td>
@@ -66,12 +66,5 @@ database)  and if yes label  the  color  on the object.
     </table>
 </div>         
 ## Reference   
-<div>[1]https://www.youtube.com/watch?v=o_9lKLUpQSQ</div><div>[2]https://vimeo.com/2381394</div><div>[3]http://dsqiu.iteye.com/blog/1638589</div><div>[4]http://www.csdn.net/article/2012-07-03/2807073-k-means</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [HUST](http://www.hust.edu.cn/ &nbsp;"悬停显示")</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Bing](http://cn.bing.com/?scope=web "悬停显示")</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Ifeng](http://www.ifeng.com/ &nbsp;"悬停显示")</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :stuck_out_tongue_winking_eye:</div>
-  [1] https://www.youtube.com/watch?v=o_9lKLUpQSQ  
-  [2] https://vimeo.com/2381394<br  >  
-  <br>
-  <br>
-  [HUST](http://www.hust.edu.cn/  "悬停显示")<br>
-  [Bing](http://cn.bing.com/?scope=web "悬停显示")<br>
-  [Ifeng](http://www.ifeng.com/  "悬停显示")<br>
-  :stuck_out_tongue_winking_eye: <br>
+<div>[1]<a href="https://www.youtube.com/watch?v=o_9lKLUpQSQ" _src="https://www.youtube.com/watch?v=o_9lKLUpQSQ">https://www.youtube.com/watch?v=o_9lKLUpQSQ</a></div><div>[2]<a href="https://vimeo.com/2381394" _src="https://vimeo.com/2381394">https://vimeo.com/2381394</a></div><div>[3]<a href="http://dsqiu.iteye.com/blog/1638589" _src="http://dsqiu.iteye.com/blog/1638589">http://dsqiu.iteye.com/blog/1638589</a></div><div>[4]<a href="http://www.csdn.net/article/2012-07-03/2807073-k-means" _src="http://www.csdn.net/article/2012-07-03/2807073-k-means">http://www.csdn.net/article/2012-07-03/2807073-k-means</a> </div><div><br /></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[HUST](http://www.hust.edu.cn/ &nbsp;"悬停显示")</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Bing](http://cn.bing.com/?scope=web "悬停显示")</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Ifeng](http://www.ifeng.com/ &nbsp;"悬停显示")</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :stuck_out_tongue_winking_eye:</div>
+ 
