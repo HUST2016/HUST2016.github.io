@@ -20,7 +20,6 @@ database)  and if yes label  the  color  on the object.
  &nbsp;项目流程：</div>  
 
  <br />   
-![Image](https://github.com/HUST2016/HUST2016.github.io/blob/master/images/1.png)
 ![Image](images/1.png)
  <br />     
  
