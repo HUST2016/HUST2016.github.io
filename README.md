@@ -24,7 +24,9 @@ database)  and if yes label  the  color  on the object.
    环境配置：python 2.7.9、opencv2.4.13、Numpy1.12.1等相关库包<br>
    IDE JetBrains PyCharm Community Edition  <br>
    注意事项：建议使用python2.7版本（python3.0可能出现与相关包不兼容）<br>
-	    同时建议安装Anaconda2，里面包含了大多数的python库包，可方便使用<br>
+	    同时建议安装Anaconda2，里面包含了大多数的python库包，可方便使用 <br>     
+   项目流程：  <br>
+   ![image](HUST2016.github.io/images/1.png)
 <br />
 
 ### 第五周
