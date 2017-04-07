@@ -38,7 +38,7 @@ database)  and if yes label  the  color  on the object.
  ![image](https://raw.githubusercontent.com/HUST2016/HUST2016.github.io/master/images/4.gif)     
 （3）识别各个形状的颜色     
 （4）结合（1）、（2）、（3），在每个形状的质心处输出 “ 形状+颜色  ” 的信息标注       
-![image](https://raw.githubusercontent.com/HUST2016/HUST2016.github.io/master/images/5.gif)      
+ ![image](https://raw.githubusercontent.com/HUST2016/HUST2016.github.io/master/images/5.gif)      
  
 <br /> 
 
