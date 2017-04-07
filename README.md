@@ -38,18 +38,15 @@ database)  and if yes label  the  color  on the object.
  ![image](https://raw.githubusercontent.com/HUST2016/HUST2016.github.io/master/images/4.gif)     
 （3）识别各个形状的颜色       
   对于每一个形状区域，构建图像掩模，经过腐蚀操作后（为了使形状更精准），计算形状区域在Lab空间的均值，之后，再与数据库中的颜色进行欧氏距离运算，找出距   离最小的，视为形状所属的颜色。              
-  相关代码：                    
-  
- 
-  
+        
+  相关代码：                
+  <div style="line-height:1.7;color:#000000;font-size:14px;font-family:Arial"><div><pre style="background-color:#2b2b2b;color:#a9b7c6;font-family:'宋体';font-size:12.0pt;">mask = np.zeros(<span style="color:#e7287d;">image</span>.shape[:<span style="color:#e9249f;">2</span>]<span style="color:#cc7832;">, </span><span style="color:#aa4926;">dtype</span>=<span style="color:#a5c261;">"uint8"</span>)<span style="color:#d98b8b;"><br /></span>cv2.drawContours(mask<span style="color:#cc7832;">, </span>[<span style="color:#e7287d;">c</span>]<span style="color:#cc7832;">, </span>-<span style="color:#e9249f;">1</span><span style="color:#cc7832;">, </span><span style="color:#e9249f;">255</span><span style="color:#cc7832;">, </span>-<span style="color:#e9249f;">1</span>)#构建图像掩膜<br />mask = cv2.erode(mask<span style="color:#cc7832;">, </span><span style="color:#8888c6;">None</span><span style="color:#cc7832;">, </span><span style="color:#aa4926;">iterations</span>=<span style="color:#e9249f;">2</span>)#进行腐蚀操作<br />mean = cv2.mean(<span style="color:#e7287d;">image</span><span style="color:#cc7832;">, </span><span style="color:#aa4926;">mask</span>=mask)[:<span style="color:#e9249f;">3</span>]#计算均值、之后进行欧氏距离比较即可<br /></pre></div>  </div>  
 <br /> 
 
 ## 3.The outcome of the project
-<br />       
- <br />   
+<br />          
   完善上周工作（1）、（2）、（3），在每个形状的质心处输出 “ 形状+颜色  ” 的信息标注                
   ![image](https://raw.githubusercontent.com/HUST2016/HUST2016.github.io/master/images/5.gif)       
-  <br />
 <br />
 ## Group Members
 <div>
