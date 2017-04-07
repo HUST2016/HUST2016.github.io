@@ -37,7 +37,7 @@ database)  and if yes label  the  color  on the object.
  （2）识别各个形状的具体类型（三角形、长（正）方形、五边形、圆形），并标出          
  ![image](https://raw.githubusercontent.com/HUST2016/HUST2016.github.io/master/images/4.gif)     
 （3）识别各个形状的颜色     
-（4）结合（1）、（2）、（3），在每个形状的质心处输出 “ 形状+颜色  ” 的信息标注       
+（4）结合（1）、（2）、（3），在每个形状的质心处输出 “ 形状+颜色  ” 的信息标注           
  ![image](https://raw.githubusercontent.com/HUST2016/HUST2016.github.io/master/images/5.gif)      
  
 <br /> 
